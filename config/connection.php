@@ -3,7 +3,7 @@
 $host = 'localhost';
 $user = 'root';
 $password = '';
-$dbname = 'invictos';
+$dbname = 'projetoLogin';
 
 // Criar conexão
 $conn = new mysqli($host, $user, $password, $dbname);
